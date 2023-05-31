@@ -67,5 +67,5 @@ box-shadow: inset -13px 0 0 0 #e0e5ff;
     transform: translate(-50%, -50%);
     border-radius: 8px 8px 8px 8px/20px 20px 8px 8px;
     z-index: 1;
-    animation: wind 15s ease-in-out infinite
+    animation: wind 15s ease-in-out infinite, size 20s ease-in-out infinite;
 }
