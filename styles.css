@@ -46,3 +46,26 @@ height: 100px;
 background-color: #fff;
 box-shadow: inset -13px 0 0 0 #e0e5ff;
 }
+
+.neck{
+    position: relative;
+    background-color: grey;
+    width: 4px;
+    height: 15px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+.flame {
+    position: relative;
+    background-color: #ad88a9;
+    width: 16px;
+    height: 26px;
+    left: 44%;
+    top: 2px;
+    background: #ffad00;
+    transform: translate(-50%, -50%);
+    border-radius: 8px 8px 8px 8px/20px 20px 8px 8px;
+    z-index: 1;
+    animation: wind 15s ease-in-out infinite
+}
