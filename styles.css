@@ -69,5 +69,4 @@ box-shadow: inset -13px 0 0 0 #e0e5ff;
     z-index: 1;
     animation: wind 15s ease-in-out infinite, size 20s ease-in-out infinite, flickr 5s ease-in-out infinite;
 }
-
 @key frame Wind {}
