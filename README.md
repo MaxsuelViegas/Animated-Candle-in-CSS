@@ -1,2 +1,2 @@
 # Animated-Candle-in-CSS
-A Animated Candl
+A Animated Candle
